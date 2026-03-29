@@ -17,7 +17,7 @@ This project is a Machine Learning-based system that detects human stress levels
 ## 📂 Dataset
 Due to GitHub file size limitations, the dataset is not included in this repository.
 👉 Download dataset from here:
-**[ADD YOUR DATASET LINK HERE]**
+**[https://drive.google.com/file/d/1DEtp_ZPYn5IVRgMzUQtKfCzLYADilD_4/view?usp=drive_link]**
 After downloading, place the dataset in the project root directory:
 ```bash
 /project-folder/data/
